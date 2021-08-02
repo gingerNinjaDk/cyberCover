@@ -1,0 +1,24 @@
+{
+  "name": "cybercover",
+  "version": "1.0.0",
+  "description": "Does a company have external cover",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gingerNinjaDk/cyberCover.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gingerNinjaDk/cyberCover/issues"
+  },
+  "homepage": "https://github.com/gingerNinjaDk/cyberCover#readme"
+}
