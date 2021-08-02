@@ -1,0 +1,15 @@
+{
+    "companies": [
+        {
+            "id": 1202693519,
+            "name": "Nigel",
+            "HasCover": "Yes"
+        },
+        {
+            "id": 2709077077,
+            "name": "Asmus",
+            "HasCover": "No"
+        }
+
+    ]
+}
