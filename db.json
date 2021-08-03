@@ -14,6 +14,11 @@
             "id": 12345678,
             "name": "Ronaldsen",
             "HasCover": "Yes"
+        },
+        {
+            "id": 555,
+            "name": "Niels",
+            "HasCover": "No"
         }
 
     ]
