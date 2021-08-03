@@ -1,14 +1,19 @@
 {
     "companies": [
         {
-            "id": 1202693519,
+            "id": 1202693517,
             "name": "Nigel",
             "HasCover": "Yes"
         },
         {
-            "id": 2709077077,
+            "id": 2709077070,
             "name": "Asmus",
             "HasCover": "No"
+        },
+        {
+            "id": 12345678,
+            "name": "Ronaldsen",
+            "HasCover": "Yes"
         }
 
     ]
